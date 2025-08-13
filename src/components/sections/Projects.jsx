@@ -98,7 +98,7 @@ const Projects = ({ openModal, setOpenModal }) => {
   return (
     <Container id="Projects">
       <Wrapper>
-        <Title>Projects</Title>
+        <Title>Portfolio</Title>
         <Desc
           style={{
             marginBottom: "40px",
