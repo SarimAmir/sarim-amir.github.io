@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.58a0c615.css",
-    "main.js": "/static/js/main.b61efefe.js",
+    "main.js": "/static/js/main.ba0fa21b.js",
     "static/media/Power-BI-Logo-PNG_001.png": "/static/media/Power-BI-Logo-PNG_001.db0d72d6ea76f9cb3b19.png",
     "static/media/NumPy.png": "/static/media/NumPy.74ab255361b437eb3779.png",
     "static/media/co-1.PNG": "/static/media/co-1.34e188fbf63e1889d8b0.PNG",
@@ -26,10 +26,10 @@
     "static/media/zomato.png": "/static/media/zomato.0e5aa7bef28ef6d096de.png",
     "index.html": "/index.html",
     "main.58a0c615.css.map": "/static/css/main.58a0c615.css.map",
-    "main.b61efefe.js.map": "/static/js/main.b61efefe.js.map"
+    "main.ba0fa21b.js.map": "/static/js/main.ba0fa21b.js.map"
   },
   "entrypoints": [
     "static/css/main.58a0c615.css",
-    "static/js/main.b61efefe.js"
+    "static/js/main.ba0fa21b.js"
   ]
 }
