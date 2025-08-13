@@ -70,7 +70,7 @@ const Certificates = () => {
             marginBottom: "40px",
           }}
         >
-          My certificates .
+          A showcase of my professional certifications and achievements.
         </Desc>
 
         <VerticalTimeline>

@@ -104,7 +104,7 @@ const Projects = ({ openModal, setOpenModal }) => {
             marginBottom: "40px",
           }}
         >
-          I have worked on a wide range of projects. From Data Wrangling to Visualization & BI and ML & DL. Here are some of my projects.
+           A diverse portfolio of projects spanning Data Visualization, Business Intelligence and Machine Learning, demonstrating both technical expertise and creative problem-solving.
         </Desc>
         <ToggleButtonGroup>
           <ToggleButton
