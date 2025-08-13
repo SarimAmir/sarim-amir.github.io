@@ -60,8 +60,7 @@ const Experience = () => {
             marginBottom: "40px",
           }}
         >
-          My work experience as a software engineer and working on different
-          companies and projects.
+          My professional journey spans business analytics, data coordination and analysis, and research analysis — delivering impactful solutions across analytics, data management, and operational efficiency for diverse organisations and industries.
         </Desc>
 
         <VerticalTimeline>

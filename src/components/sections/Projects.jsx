@@ -104,7 +104,7 @@ const Projects = ({ openModal, setOpenModal }) => {
             marginBottom: "40px",
           }}
         >
-           A diverse portfolio of projects spanning Data Visualization, Business Intelligence and Machine Learning, demonstrating both technical expertise and creative problem-solving.
+           A diverse portfolio of projects spanning Data Visualization, Business Intelligence and Machine Learning, demonstrating both technical expertise and creative problem solving.
         </Desc>
         <ToggleButtonGroup>
           <ToggleButton

@@ -127,7 +127,7 @@ const Skills = () => {
             marginBottom: "40px",
           }}
         >
-          A collection of technical skills I’ve developed and honed over the past 3 years through academic, professional, and personal projects
+          A collection of technical skills I’ve developed and honed over the years through academic, professional, and personal projects
         </Desc>
 
         <SkillsContainer>
