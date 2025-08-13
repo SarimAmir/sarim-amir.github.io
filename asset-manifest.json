@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58a0c615.css",
+    "main.js": "/static/js/main.e1dfd36b.js",
+    "static/media/Power-BI-Logo-PNG_001.png": "/static/media/Power-BI-Logo-PNG_001.db0d72d6ea76f9cb3b19.png",
+    "static/media/NumPy.png": "/static/media/NumPy.74ab255361b437eb3779.png",
+    "static/media/co-1.PNG": "/static/media/co-1.34e188fbf63e1889d8b0.PNG",
+    "static/media/zero day.jpg": "/static/media/zero day.df122af25bedc7217339.jpg",
+    "static/media/seaborn-seeklogo.png": "/static/media/seaborn-seeklogo.b8bca06e12b079714f15.png",
+    "static/media/cl-1.PNG": "/static/media/cl-1.f1653181a4d0a55290ac.PNG",
+    "static/media/as-2.PNG": "/static/media/as-2.adc0b3c2d9d914fc6cf5.PNG",
+    "static/media/Forecasting Dashboard.PNG": "/static/media/Forecasting Dashboard.f2968d642dfa060f578b.PNG",
+    "static/media/customerprediction.png": "/static/media/customerprediction.a267816c5e95329449c9.png",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.f11769ef15f3e579be5a.jpg",
+    "static/media/VISUAL-MATPLOT AND SEABORN.png": "/static/media/VISUAL-MATPLOT AND SEABORN.cfcfed2ff614587683a7.png",
+    "static/media/Microsoft_Excel_logo_PNG1.png": "/static/media/Microsoft_Excel_logo_PNG1.f19a01ab97141462ea71.png",
+    "static/media/scipy-seeklogo.png": "/static/media/scipy-seeklogo.49a4051ec5c33a9f7ec1.png",
+    "static/media/Udemy_logo.png": "/static/media/Udemy_logo.64f0052970dc40544a7d.png",
+    "static/media/codecampproj.PNG": "/static/media/codecampproj.5ca98577ed004c51f215.PNG",
+    "static/media/Google Sheets_logo.png": "/static/media/Google Sheets_logo.58287befffb9933bbc63.png",
+    "static/media/MySQL_logo_PNG1.png": "/static/media/MySQL_logo_PNG1.658213c2f12ef841f107.png",
+    "static/media/Python_logo_PNG1.png": "/static/media/Python_logo_PNG1.aab852fe606b1fa202c4.png",
+    "static/media/Matplotlib.png": "/static/media/Matplotlib.108848d4569ad2010a41.png",
+    "static/media/R.png": "/static/media/R.3f9dfcafc5d7d20c0270.png",
+    "static/media/scikit-learn.png": "/static/media/scikit-learn.6e8fb972f2cbb25af1f6.png",
+    "static/media/zomato.png": "/static/media/zomato.0e5aa7bef28ef6d096de.png",
+    "index.html": "/index.html",
+    "main.58a0c615.css.map": "/static/css/main.58a0c615.css.map",
+    "main.e1dfd36b.js.map": "/static/js/main.e1dfd36b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.e1dfd36b.js"
+  ]
+}
