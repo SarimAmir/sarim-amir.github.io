@@ -1,7 +1,7 @@
 {
   "name": "sarim-portfolio-website",
   "version": "0.1.1",
-  "homepage":"https://sarim-amir.github.io",
+  "homepage": "https://sarimamir.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
